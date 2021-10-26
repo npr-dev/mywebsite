@@ -8,6 +8,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Red-Portfolio"
+		"liveServer.settings.multiRootWorkspaceName": "mywebsite",
+		"liveServer.settings.port": 5501
 	}
 }
